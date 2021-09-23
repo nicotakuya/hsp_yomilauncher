@@ -1,4 +1,4 @@
-# yomi launcher
+# yomigaeru launcher
 
 ## overview
 
